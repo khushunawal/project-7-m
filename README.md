@@ -1,1 +1,1 @@
-# project-7-m
+# Customer-mall-model-in-ML
